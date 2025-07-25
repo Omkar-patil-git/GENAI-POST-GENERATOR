@@ -7,6 +7,8 @@ Automatically analyzes past LinkedIn posts by an influencer and generates new po
 ## 🧾 Demo
 
 
+https://github.com/user-attachments/assets/923b17e8-fc13-4b31-87b4-87a4e6304af4
+
 ## ✨ Features
 
 * Automatic extraction of past influencer post topics, languages, and lengths.
